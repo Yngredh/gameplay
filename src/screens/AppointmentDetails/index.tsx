@@ -27,7 +27,7 @@ export function AppointmentDetails() {
       id: "2",
       username: "Davi Henrique",
       avatar_url: "https://github.com/davihenrique05.png",
-      status: "online",
+      status: "offline",
     },
     {
       id: "3",
