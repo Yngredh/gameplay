@@ -11,7 +11,7 @@ import { Routes } from "./src/routes/";
 import AppLoading from "expo-app-loading";
 import { Background } from "./src/components/Background";
 
-//LogBox.ignoreLogs([''])
+LogBox.ignoreLogs([""]);
 
 export default function App() {
   const [fontsLoaded] = useFonts({
